@@ -5,7 +5,7 @@ import 'package:dio/dio.dart';
 class ApiServices {
   final _baseUrl = 'https://api.weatherapi.com/v1/';
   final _endPoint = 'forecast.json?';
-  final _key = 'ff2d6b8c375c4ab4839172441240407';
+  final _key = '******************************';
 
   ApiServices();
 
